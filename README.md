@@ -1,1 +1,1 @@
-# iesa-cours-python
+# POO course - IESA M1 DT
